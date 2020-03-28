@@ -15,6 +15,8 @@ function game(){
 	echo "Congratulations! You're right."
 }
 
-echo "Welcome! Let's play a game: you should guess how many files are in the current directory"
+echo "Welcome!"
+echo " Let's play a game: you should guess how many files are in the current directory"
 game
-echo "It was so nice to play with you! Bye"
+echo "It was so nice to play with you!"
+echo "Bye"
